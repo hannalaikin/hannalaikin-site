@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hannalaikin.com/sitemap.xml
